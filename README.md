@@ -1,4 +1,4 @@
-- 👋 Hi, I am Umenzee Chinedu.
+- 👋 Hi, I am Umenze Chinedu.
 - 👀 I’m interested in Music, History and Web Developmeent (Front End to be precise).
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on begineer projects on HTML, CSS and JavaScript, since I am quite new to it.
